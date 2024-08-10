@@ -19,51 +19,6 @@ See the [Video Walkthrough](https://imgur.com/3ns3UJB) of what you will build!
 * Learn **GraphQL API** and how to use it with a database to create the tables and navigate the data.
 * Learn about **paging** and **infinite scrolling** in web ui
 * Leverage Netlify and DataStax Astra DB
-
-## ℹ️ Frequently asked questions ℹ️ 
-
-- *Can I run the workshop on my computer?*
-
-> There is nothing preventing you from running the workshop on your own machine.
-> If you do so, you will need
-> * git installed on your local system
-> * [node 15 and npm 7 or later](https://www.whitesourcesoftware.com/free-developer-tools/blog/update-node-js/)
->
-> You will have to adapt commands and paths based on your environment and install the dependencies by yourself. **We won't provide support** to keep on track with schedule. However, we will do our best to give you the info you need to be successful.
-
-- *What other prerequisites are there?*
-> * You will need a github account
-> * You will also need Netlify and Astra DB accounts, but we'll work through that in the exercises
-> * Use **Chrome** or **Firefox** for the best experience. Other browsers are great, but don't work well with the GitPod integration we use a bit later.
-
-- *Do I need to pay for anything for this workshop?*
-> * **No.** All tools and services we provide here are FREE.
-
-- *Will I get a certificate if I attend this workshop?*
-
-> Attending the session is not enough. You need to complete the homeworks detailed below and you will get a nice badge.
-
-## Materials for the Session
-
-It doesn't matter if you join our workshop live or you prefer to do at your own pace, we have you covered. In this repository, you'll find everything you need for this workshop:
-
-- [Slide deck](./slides/slides.pdf)
-- [Discord chat](https://bit.ly/cassandra-workshop)
-- [Questions and Answers](https://community.datastax.com/)
-
-## Homework
-
-<img src="tutorial/images/netflix-badge.png?raw=true" width="200" align="right" />
-
-Don't forget to complete your upgrade and get your verified skill badge! Finish and submit your homework!
-
-1. Complete the practice steps from this repository as described below.
-2. Insert a movie OR genre of your choice in the database (It's ok to copy an existing one, just change the name a bit so we can tell it is yours).
-3. Make a screenshot showing us your deployed production Netflix clone up in Netlify (with your new movie/genre in the image) OR drop the link to your deployed Netlify site. Please ensure to tell us the name of the new movie or genre you added so we can grade your homework more quickly.
-4. (Optional extra credit) Watch the 2 hour Ania video [HERE](#video-tutorial-with-ania-kubow), build the app yourself, and show us the completed app.
-5. Submit your homework [here](https://dtsx.io/homework-graphql-netflix)
-
-That's it, you are done! Expect an email next week!
   
 # Let's start
 
